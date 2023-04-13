@@ -92,3 +92,11 @@ nav ul li {
   display: none;
 }
 
+.hero {
+  display: flex;
+  align-items:centre;
+  justify-content: center;
+  gap: 2.5rem;
+  max-width: 68.75rem;
+  margin: auto;
+}
