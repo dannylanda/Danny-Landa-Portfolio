@@ -1,14 +1,14 @@
-# DANNY'S DEVELOPER PORTFOLIO
+# DANNY'S DEVOP'S PORTFOLIO
 
 Welcome to my portfolio website, I made it from scratch, cool right. Here you'll find my code you can branch off and adapt it to make your own website. Also you'll find infomation about resources used within the website.
 
 ## Author
 
-[@dannylanda](https://www.twitter.com/DannyLandaXO)
+[@dannylanda] (https://www.linkedin.com/in/danny-landa/)
 
 ## Github repo
 
-This is the [link] (https://github.com/dannylanda/developer-portfolio) to the Github repo of the project. This is the main code base and any changes here continously push to our live website.
+This is the [link] (https://github.com/dannylanda/Danny-Landa-Portfolio) to the Github repo of the project. This is the main code base and any changes here continously pushed to our live website using CI/CD.
 
 ## Sample Website
 
@@ -53,5 +53,3 @@ In addition to formspree, you can also use Netlify form submission in case you d
 ## CI/CD 
 
 This site is hosted through Netlify, I am leveraging a CI/CD feature which continously pushes changes made on my local code base, up to my live site.
-
-If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris).
